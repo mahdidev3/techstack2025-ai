@@ -1,12 +1,11 @@
 import os
 import glob
-import time 
 
 import numpy as np
 from PIL import Image
 import matplotlib.pyplot as plt
 
-folder_path = r"C:\Users\mahdi\OneDrive\Desktop\TechStack\Tasks\techstack2025-ai\week1\Task2\data\Puzzle_1_160"
+folder_path = r"C:\Users\mahdi\OneDrive\Desktop\TechStack\Tasks\techstack2025-ai\week1\Task2\data\Puzzle_20_160"
 output_file = os.path.join(folder_path, "Output.tif")
 patch_files = glob.glob(os.path.join(folder_path, "Patch_*.tif"))
 corners_img = np.array(Image.open(output_file))
@@ -24,20 +23,28 @@ def puzzle_solver(base_img , patches):
     final_img = base_img.copy()
     solved = np.zeros((rows, cols), dtype=bool)
     solved[0][0] = solved[rows - 1][0] = solved[0][cols - 1] = solved[rows - 1][cols - 1] = True
-    def get_edge_diff(patch1, patch2, direction):
-        if direction == 'top':
-            edge1 = patch1[:1, :]
-            edge2 = patch2[-1:, :]
-        elif direction == 'bottom':
-            edge1 = patch1[-1:, :]
-            edge2 = patch2[:1, :]
-        elif direction == 'left':
-            edge1 = patch1[:, :1]
-            edge2 = patch2[:, -1:]
-        elif direction == 'right':
-            edge1 = patch1[:, -1:]
-            edge2 = patch2[:, :1]
-        return np.sum((edge1 - edge2) ** 2)
+    def get_edge_diff(patch1, patch2, direction , depth=1 , decay=0.0):
+
+        total_diff = 0.0
+        weghted_diff = 1
+
+        for offset in range(depth):
+            if direction == 'top':
+                edge1 = patch1[:1 + offset, :]
+                edge2 = patch2[-(1 + offset):, :]
+            elif direction == 'bottom':
+                edge1 = patch1[-(1 + offset):, :]
+                edge2 = patch2[:1 + offset, :]
+            elif direction == 'left':
+                edge1 = patch1[:, :1 + offset]
+                edge2 = patch2[:, -(1 + offset):]
+            elif direction == 'right':
+                edge1 = patch1[:, -(1 + offset):]
+                edge2 = patch2[:, :1 + offset]
+            total_diff += (np.sum((edge1 - edge2) ** 2) * weghted_diff)
+            weghted_diff *= decay
+
+        return total_diff / depth if depth > 0 else float('inf')
 
     used_patches = set()
 
@@ -50,6 +57,7 @@ def puzzle_solver(base_img , patches):
         best_idx = -1
         best_row, best_col = -1, -1
         
+
         for row in range(rows):
             for col in range(cols):
                 if solved[row][col]:
@@ -65,6 +73,16 @@ def puzzle_solver(base_img , patches):
                 if not neighbors:
                     continue
                 
+                min_diff_for_neighbors = float('inf')
+                best_patch_for_neighbors = None
+                best_idx_for_neighbors = -1
+                best_row_for_neighbors, best_col_for_neighbors = -1, -1
+
+                pre_min_diff_for_neighbors = float('inf')
+                pre_best_patch_for_neighbors = None
+                pre_best_idx_for_neighbors = -1
+                pre_best_row_for_neighbors, pre_best_col_for_neighbors = -1, -1
+
                 for idx, patch in enumerate(patches):
                     if idx in used_patches:
                         continue
@@ -78,11 +96,29 @@ def puzzle_solver(base_img , patches):
                         count += 1
                     
                     avg_diff = total_diff / count if count > 0 else float('inf')
-                    if avg_diff < min_diff:
-                        min_diff = avg_diff
-                        best_patch = patch
-                        best_idx = idx
-                        best_row, best_col = row, col
+                    if avg_diff < min_diff_for_neighbors:
+                        pre_min_diff_for_neighbors = min_diff_for_neighbors
+                        pre_best_patch_for_neighbors = best_patch_for_neighbors
+                        pre_best_idx_for_neighbors = best_idx_for_neighbors
+                        pre_best_row_for_neighbors, pre_best_col_for_neighbors = best_row_for_neighbors, best_col_for_neighbors
+
+                        min_diff_for_neighbors = avg_diff
+                        best_patch_for_neighbors = patch
+                        best_idx_for_neighbors = idx
+                        best_row_for_neighbors, best_col_for_neighbors = row, col
+
+
+                if (pre_best_patch_for_neighbors is not None) and (pre_min_diff_for_neighbors <= (min_diff_for_neighbors * 1.01)):
+                    continue
+
+                if( min_diff_for_neighbors < min_diff):
+                    min_diff = min_diff_for_neighbors
+                    best_patch = best_patch_for_neighbors
+                    best_idx = best_idx_for_neighbors
+                    best_row, best_col = best_row_for_neighbors, best_col_for_neighbors
+
+
+                
         
         if best_patch is not None:
             final_img[best_row*patch_height:(best_row+1)*patch_height, 
