@@ -1,8 +1,8 @@
 import cv2
 
 # Load image (grayscale)
-img = cv2.imread("./data/bacteria.jpg", cv2.IMREAD_GRAYSCALE)
-
+img = cv2.imread("./data/bacteria1.jpg", cv2.IMREAD_GRAYSCALE)
+img = cv2.resize(img, (800, 500)) 
 _, binary = cv2.threshold(img, 0, 255, cv2.THRESH_BINARY + cv2.THRESH_OTSU)
 
 binary = cv2.bitwise_not(binary)
