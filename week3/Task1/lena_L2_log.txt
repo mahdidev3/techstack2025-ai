@@ -1,0 +1,2 @@
+Iteration 1: L2 norm = 160.147873
+Iteration 2: L2 norm = 160.147873

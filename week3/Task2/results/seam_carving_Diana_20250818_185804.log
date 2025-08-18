@@ -1,0 +1,402 @@
+2025-08-18 18:58:04,078 - INFO - Processing ./data/Diana/Diana.png...
+2025-08-18 18:58:04,262 - INFO - Step 1: Removed seam with total energy 12.7829
+2025-08-18 18:58:04,262 - INFO - Energy map mean: 0.2807, max: 0.7883
+2025-08-18 18:58:04,441 - INFO - Step 2: Removed seam with total energy 13.0548
+2025-08-18 18:58:04,441 - INFO - Energy map mean: 0.2813, max: 0.7883
+2025-08-18 18:58:04,497 - INFO - Step 3: Removed seam with total energy 13.1862
+2025-08-18 18:58:04,497 - INFO - Energy map mean: 0.2819, max: 0.7883
+2025-08-18 18:58:04,595 - INFO - Step 4: Removed seam with total energy 13.9162
+2025-08-18 18:58:04,600 - INFO - Energy map mean: 0.2824, max: 0.7883
+2025-08-18 18:58:04,637 - INFO - Step 5: Removed seam with total energy 14.4146
+2025-08-18 18:58:04,637 - INFO - Energy map mean: 0.2830, max: 0.7883
+2025-08-18 18:58:04,732 - INFO - Step 6: Removed seam with total energy 14.7460
+2025-08-18 18:58:04,732 - INFO - Energy map mean: 0.2835, max: 0.7883
+2025-08-18 18:58:04,813 - INFO - Step 7: Removed seam with total energy 14.8126
+2025-08-18 18:58:04,813 - INFO - Energy map mean: 0.2841, max: 0.7883
+2025-08-18 18:58:04,848 - INFO - Step 8: Removed seam with total energy 15.1139
+2025-08-18 18:58:04,848 - INFO - Energy map mean: 0.2847, max: 0.7883
+2025-08-18 18:58:04,929 - INFO - Step 9: Removed seam with total energy 15.2114
+2025-08-18 18:58:04,929 - INFO - Energy map mean: 0.2852, max: 0.7883
+2025-08-18 18:58:05,013 - INFO - Step 10: Removed seam with total energy 15.3694
+2025-08-18 18:58:05,025 - INFO - Energy map mean: 0.2858, max: 0.7883
+2025-08-18 18:58:05,096 - INFO - Step 11: Removed seam with total energy 15.7402
+2025-08-18 18:58:05,109 - INFO - Energy map mean: 0.2864, max: 0.7883
+2025-08-18 18:58:05,228 - INFO - Step 12: Removed seam with total energy 15.5803
+2025-08-18 18:58:05,228 - INFO - Energy map mean: 0.2869, max: 0.7883
+2025-08-18 18:58:05,313 - INFO - Step 13: Removed seam with total energy 15.8144
+2025-08-18 18:58:05,313 - INFO - Energy map mean: 0.2875, max: 0.7883
+2025-08-18 18:58:05,347 - INFO - Step 14: Removed seam with total energy 16.3745
+2025-08-18 18:58:05,347 - INFO - Energy map mean: 0.2880, max: 0.7883
+2025-08-18 18:58:05,394 - INFO - Step 15: Removed seam with total energy 16.8414
+2025-08-18 18:58:05,395 - INFO - Energy map mean: 0.2886, max: 0.7883
+2025-08-18 18:58:05,428 - INFO - Step 16: Removed seam with total energy 17.2038
+2025-08-18 18:58:05,431 - INFO - Energy map mean: 0.2892, max: 0.7883
+2025-08-18 18:58:05,465 - INFO - Step 17: Removed seam with total energy 17.8840
+2025-08-18 18:58:05,465 - INFO - Energy map mean: 0.2898, max: 0.7883
+2025-08-18 18:58:05,503 - INFO - Step 18: Removed seam with total energy 17.6402
+2025-08-18 18:58:05,503 - INFO - Energy map mean: 0.2903, max: 0.7883
+2025-08-18 18:58:05,535 - INFO - Step 19: Removed seam with total energy 18.1091
+2025-08-18 18:58:05,535 - INFO - Energy map mean: 0.2909, max: 0.7883
+2025-08-18 18:58:05,578 - INFO - Step 20: Removed seam with total energy 19.1581
+2025-08-18 18:58:05,583 - INFO - Energy map mean: 0.2914, max: 0.7883
+2025-08-18 18:58:05,630 - INFO - Step 21: Removed seam with total energy 22.2196
+2025-08-18 18:58:05,630 - INFO - Energy map mean: 0.2920, max: 0.7883
+2025-08-18 18:58:05,681 - INFO - Step 22: Removed seam with total energy 37.4605
+2025-08-18 18:58:05,681 - INFO - Energy map mean: 0.2926, max: 0.7883
+2025-08-18 18:58:05,733 - INFO - Step 23: Removed seam with total energy 37.6955
+2025-08-18 18:58:05,743 - INFO - Energy map mean: 0.2930, max: 0.7883
+2025-08-18 18:58:05,790 - INFO - Step 24: Removed seam with total energy 38.3096
+2025-08-18 18:58:05,792 - INFO - Energy map mean: 0.2935, max: 0.7883
+2025-08-18 18:58:05,831 - INFO - Step 25: Removed seam with total energy 38.8044
+2025-08-18 18:58:05,831 - INFO - Energy map mean: 0.2940, max: 0.7883
+2025-08-18 18:58:05,897 - INFO - Step 26: Removed seam with total energy 39.6120
+2025-08-18 18:58:05,897 - INFO - Energy map mean: 0.2945, max: 0.7883
+2025-08-18 18:58:06,015 - INFO - Step 27: Removed seam with total energy 40.3110
+2025-08-18 18:58:06,015 - INFO - Energy map mean: 0.2949, max: 0.7883
+2025-08-18 18:58:06,048 - INFO - Step 28: Removed seam with total energy 40.9042
+2025-08-18 18:58:06,048 - INFO - Energy map mean: 0.2954, max: 0.7883
+2025-08-18 18:58:06,087 - INFO - Step 29: Removed seam with total energy 41.0016
+2025-08-18 18:58:06,095 - INFO - Energy map mean: 0.2959, max: 0.7883
+2025-08-18 18:58:06,147 - INFO - Step 30: Removed seam with total energy 41.6991
+2025-08-18 18:58:06,153 - INFO - Energy map mean: 0.2964, max: 0.7883
+2025-08-18 18:58:06,257 - INFO - Step 31: Removed seam with total energy 42.3334
+2025-08-18 18:58:06,257 - INFO - Energy map mean: 0.2968, max: 0.7883
+2025-08-18 18:58:06,368 - INFO - Step 32: Removed seam with total energy 42.6894
+2025-08-18 18:58:06,368 - INFO - Energy map mean: 0.2973, max: 0.7883
+2025-08-18 18:58:07,198 - INFO - Step 33: Removed seam with total energy 43.4136
+2025-08-18 18:58:07,198 - INFO - Energy map mean: 0.2978, max: 0.7883
+2025-08-18 18:58:07,280 - INFO - Step 34: Removed seam with total energy 43.8777
+2025-08-18 18:58:07,280 - INFO - Energy map mean: 0.2983, max: 0.7883
+2025-08-18 18:58:07,368 - INFO - Step 35: Removed seam with total energy 44.2497
+2025-08-18 18:58:07,368 - INFO - Energy map mean: 0.2987, max: 0.7883
+2025-08-18 18:58:07,450 - INFO - Step 36: Removed seam with total energy 44.3821
+2025-08-18 18:58:07,451 - INFO - Energy map mean: 0.2992, max: 0.7883
+2025-08-18 18:58:07,515 - INFO - Step 37: Removed seam with total energy 45.1067
+2025-08-18 18:58:07,526 - INFO - Energy map mean: 0.2997, max: 0.7883
+2025-08-18 18:58:07,599 - INFO - Step 38: Removed seam with total energy 45.6947
+2025-08-18 18:58:07,601 - INFO - Energy map mean: 0.3001, max: 0.7883
+2025-08-18 18:58:07,663 - INFO - Step 39: Removed seam with total energy 45.5862
+2025-08-18 18:58:07,663 - INFO - Energy map mean: 0.3006, max: 0.7883
+2025-08-18 18:58:07,746 - INFO - Step 40: Removed seam with total energy 45.4841
+2025-08-18 18:58:07,746 - INFO - Energy map mean: 0.3010, max: 0.7883
+2025-08-18 18:58:07,815 - INFO - Step 41: Removed seam with total energy 49.1830
+2025-08-18 18:58:07,815 - INFO - Energy map mean: 0.3015, max: 0.7883
+2025-08-18 18:58:07,895 - INFO - Step 42: Removed seam with total energy 50.5990
+2025-08-18 18:58:07,895 - INFO - Energy map mean: 0.3020, max: 0.7883
+2025-08-18 18:58:07,968 - INFO - Step 43: Removed seam with total energy 50.9363
+2025-08-18 18:58:07,976 - INFO - Energy map mean: 0.3024, max: 0.7883
+2025-08-18 18:58:08,049 - INFO - Step 44: Removed seam with total energy 51.9291
+2025-08-18 18:58:08,049 - INFO - Energy map mean: 0.3029, max: 0.7883
+2025-08-18 18:58:08,128 - INFO - Step 45: Removed seam with total energy 52.1463
+2025-08-18 18:58:08,128 - INFO - Energy map mean: 0.3033, max: 0.7883
+2025-08-18 18:58:08,196 - INFO - Step 46: Removed seam with total energy 52.9429
+2025-08-18 18:58:08,208 - INFO - Energy map mean: 0.3037, max: 0.7883
+2025-08-18 18:58:08,285 - INFO - Step 47: Removed seam with total energy 54.3908
+2025-08-18 18:58:08,285 - INFO - Energy map mean: 0.3042, max: 0.7883
+2025-08-18 18:58:08,361 - INFO - Step 48: Removed seam with total energy 55.0029
+2025-08-18 18:58:08,361 - INFO - Energy map mean: 0.3047, max: 0.7883
+2025-08-18 18:58:08,430 - INFO - Step 49: Removed seam with total energy 55.9193
+2025-08-18 18:58:08,430 - INFO - Energy map mean: 0.3051, max: 0.7883
+2025-08-18 18:58:08,512 - INFO - Step 50: Removed seam with total energy 57.7078
+2025-08-18 18:58:08,512 - INFO - Energy map mean: 0.3055, max: 0.7883
+2025-08-18 18:58:08,581 - INFO - Step 51: Removed seam with total energy 58.7423
+2025-08-18 18:58:08,581 - INFO - Energy map mean: 0.3060, max: 0.7883
+2025-08-18 18:58:08,646 - INFO - Step 52: Removed seam with total energy 60.6249
+2025-08-18 18:58:08,646 - INFO - Energy map mean: 0.3064, max: 0.7883
+2025-08-18 18:58:08,729 - INFO - Step 53: Removed seam with total energy 61.6509
+2025-08-18 18:58:08,729 - INFO - Energy map mean: 0.3068, max: 0.7883
+2025-08-18 18:58:08,797 - INFO - Step 54: Removed seam with total energy 62.0371
+2025-08-18 18:58:08,797 - INFO - Energy map mean: 0.3072, max: 0.7883
+2025-08-18 18:58:08,878 - INFO - Step 55: Removed seam with total energy 63.3787
+2025-08-18 18:58:08,878 - INFO - Energy map mean: 0.3076, max: 0.7883
+2025-08-18 18:58:08,947 - INFO - Step 56: Removed seam with total energy 64.6705
+2025-08-18 18:58:08,947 - INFO - Energy map mean: 0.3080, max: 0.7883
+2025-08-18 18:58:08,979 - INFO - Step 57: Removed seam with total energy 65.4098
+2025-08-18 18:58:08,979 - INFO - Energy map mean: 0.3084, max: 0.7883
+2025-08-18 18:58:09,046 - INFO - Step 58: Removed seam with total energy 65.7198
+2025-08-18 18:58:09,046 - INFO - Energy map mean: 0.3088, max: 0.7883
+2025-08-18 18:58:09,128 - INFO - Step 59: Removed seam with total energy 66.6377
+2025-08-18 18:58:09,135 - INFO - Energy map mean: 0.3092, max: 0.7883
+2025-08-18 18:58:09,197 - INFO - Step 60: Removed seam with total energy 67.2972
+2025-08-18 18:58:09,197 - INFO - Energy map mean: 0.3096, max: 0.7883
+2025-08-18 18:58:09,271 - INFO - Step 61: Removed seam with total energy 67.8302
+2025-08-18 18:58:09,278 - INFO - Energy map mean: 0.3100, max: 0.7883
+2025-08-18 18:58:09,346 - INFO - Step 62: Removed seam with total energy 68.7001
+2025-08-18 18:58:09,346 - INFO - Energy map mean: 0.3104, max: 0.7883
+2025-08-18 18:58:09,418 - INFO - Step 63: Removed seam with total energy 69.1151
+2025-08-18 18:58:09,418 - INFO - Energy map mean: 0.3108, max: 0.7883
+2025-08-18 18:58:09,480 - INFO - Step 64: Removed seam with total energy 69.7058
+2025-08-18 18:58:09,495 - INFO - Energy map mean: 0.3112, max: 0.7883
+2025-08-18 18:58:09,562 - INFO - Step 65: Removed seam with total energy 70.1844
+2025-08-18 18:58:09,563 - INFO - Energy map mean: 0.3116, max: 0.7883
+2025-08-18 18:58:09,628 - INFO - Step 66: Removed seam with total energy 71.6572
+2025-08-18 18:58:09,628 - INFO - Energy map mean: 0.3119, max: 0.7883
+2025-08-18 18:58:09,701 - INFO - Step 67: Removed seam with total energy 72.8520
+2025-08-18 18:58:09,701 - INFO - Energy map mean: 0.3123, max: 0.7883
+2025-08-18 18:58:09,770 - INFO - Step 68: Removed seam with total energy 73.6586
+2025-08-18 18:58:09,770 - INFO - Energy map mean: 0.3127, max: 0.7883
+2025-08-18 18:58:09,830 - INFO - Step 69: Removed seam with total energy 74.4934
+2025-08-18 18:58:09,830 - INFO - Energy map mean: 0.3130, max: 0.7883
+2025-08-18 18:58:09,897 - INFO - Step 70: Removed seam with total energy 75.8426
+2025-08-18 18:58:09,910 - INFO - Energy map mean: 0.3134, max: 0.7883
+2025-08-18 18:58:09,978 - INFO - Step 71: Removed seam with total energy 76.4191
+2025-08-18 18:58:09,978 - INFO - Energy map mean: 0.3137, max: 0.7883
+2025-08-18 18:58:10,043 - INFO - Step 72: Removed seam with total energy 77.0202
+2025-08-18 18:58:10,045 - INFO - Energy map mean: 0.3141, max: 0.7883
+2025-08-18 18:58:10,110 - INFO - Step 73: Removed seam with total energy 77.2858
+2025-08-18 18:58:10,111 - INFO - Energy map mean: 0.3144, max: 0.7883
+2025-08-18 18:58:10,178 - INFO - Step 74: Removed seam with total energy 78.0906
+2025-08-18 18:58:10,178 - INFO - Energy map mean: 0.3148, max: 0.7883
+2025-08-18 18:58:10,246 - INFO - Step 75: Removed seam with total energy 78.9045
+2025-08-18 18:58:10,246 - INFO - Energy map mean: 0.3151, max: 0.7883
+2025-08-18 18:58:10,312 - INFO - Step 76: Removed seam with total energy 79.7028
+2025-08-18 18:58:10,313 - INFO - Energy map mean: 0.3155, max: 0.7883
+2025-08-18 18:58:10,381 - INFO - Step 77: Removed seam with total energy 80.0938
+2025-08-18 18:58:10,381 - INFO - Energy map mean: 0.3158, max: 0.7883
+2025-08-18 18:58:10,445 - INFO - Step 78: Removed seam with total energy 81.5806
+2025-08-18 18:58:10,445 - INFO - Energy map mean: 0.3161, max: 0.7883
+2025-08-18 18:58:10,520 - INFO - Step 79: Removed seam with total energy 82.4364
+2025-08-18 18:58:10,520 - INFO - Energy map mean: 0.3164, max: 0.7883
+2025-08-18 18:58:10,588 - INFO - Step 80: Removed seam with total energy 82.5819
+2025-08-18 18:58:10,588 - INFO - Energy map mean: 0.3168, max: 0.7883
+2025-08-18 18:58:10,662 - INFO - Step 81: Removed seam with total energy 83.2601
+2025-08-18 18:58:10,662 - INFO - Energy map mean: 0.3171, max: 0.7883
+2025-08-18 18:58:10,732 - INFO - Step 82: Removed seam with total energy 83.7187
+2025-08-18 18:58:10,742 - INFO - Energy map mean: 0.3174, max: 0.7883
+2025-08-18 18:58:10,812 - INFO - Step 83: Removed seam with total energy 83.8174
+2025-08-18 18:58:10,812 - INFO - Energy map mean: 0.3178, max: 0.7883
+2025-08-18 18:58:10,880 - INFO - Step 84: Removed seam with total energy 84.2019
+2025-08-18 18:58:10,880 - INFO - Energy map mean: 0.3181, max: 0.7883
+2025-08-18 18:58:10,946 - INFO - Step 85: Removed seam with total energy 84.6381
+2025-08-18 18:58:10,960 - INFO - Energy map mean: 0.3184, max: 0.7883
+2025-08-18 18:58:11,028 - INFO - Step 86: Removed seam with total energy 84.8957
+2025-08-18 18:58:11,030 - INFO - Energy map mean: 0.3187, max: 0.7883
+2025-08-18 18:58:11,096 - INFO - Step 87: Removed seam with total energy 84.9625
+2025-08-18 18:58:11,096 - INFO - Energy map mean: 0.3191, max: 0.7883
+2025-08-18 18:58:11,178 - INFO - Step 88: Removed seam with total energy 85.4597
+2025-08-18 18:58:11,178 - INFO - Energy map mean: 0.3194, max: 0.7883
+2025-08-18 18:58:11,262 - INFO - Step 89: Removed seam with total energy 85.6599
+2025-08-18 18:58:11,263 - INFO - Energy map mean: 0.3197, max: 0.7883
+2025-08-18 18:58:11,330 - INFO - Step 90: Removed seam with total energy 85.6719
+2025-08-18 18:58:11,330 - INFO - Energy map mean: 0.3200, max: 0.7883
+2025-08-18 18:58:11,364 - INFO - Step 91: Removed seam with total energy 85.6736
+2025-08-18 18:58:11,364 - INFO - Energy map mean: 0.3204, max: 0.7883
+2025-08-18 18:58:11,428 - INFO - Step 92: Removed seam with total energy 86.0280
+2025-08-18 18:58:11,428 - INFO - Energy map mean: 0.3207, max: 0.7883
+2025-08-18 18:58:11,497 - INFO - Step 93: Removed seam with total energy 86.3632
+2025-08-18 18:58:11,497 - INFO - Energy map mean: 0.3211, max: 0.7883
+2025-08-18 18:58:11,561 - INFO - Step 94: Removed seam with total energy 86.2041
+2025-08-18 18:58:11,563 - INFO - Energy map mean: 0.3214, max: 0.7883
+2025-08-18 18:58:11,628 - INFO - Step 95: Removed seam with total energy 86.4658
+2025-08-18 18:58:11,630 - INFO - Energy map mean: 0.3217, max: 0.7883
+2025-08-18 18:58:11,695 - INFO - Step 96: Removed seam with total energy 86.6744
+2025-08-18 18:58:11,695 - INFO - Energy map mean: 0.3220, max: 0.7883
+2025-08-18 18:58:11,747 - INFO - Step 97: Removed seam with total energy 86.7643
+2025-08-18 18:58:11,747 - INFO - Energy map mean: 0.3224, max: 0.7883
+2025-08-18 18:58:11,814 - INFO - Step 98: Removed seam with total energy 86.9995
+2025-08-18 18:58:11,814 - INFO - Energy map mean: 0.3227, max: 0.7883
+2025-08-18 18:58:11,880 - INFO - Step 99: Removed seam with total energy 87.1947
+2025-08-18 18:58:11,880 - INFO - Energy map mean: 0.3230, max: 0.7883
+2025-08-18 18:58:11,947 - INFO - Step 100: Removed seam with total energy 87.3050
+2025-08-18 18:58:11,947 - INFO - Energy map mean: 0.3234, max: 0.7883
+2025-08-18 18:58:12,013 - INFO - Step 101: Removed seam with total energy 87.4582
+2025-08-18 18:58:12,013 - INFO - Energy map mean: 0.3237, max: 0.7883
+2025-08-18 18:58:12,080 - INFO - Step 102: Removed seam with total energy 87.7908
+2025-08-18 18:58:12,080 - INFO - Energy map mean: 0.3240, max: 0.7883
+2025-08-18 18:58:12,147 - INFO - Step 103: Removed seam with total energy 88.1247
+2025-08-18 18:58:12,147 - INFO - Energy map mean: 0.3244, max: 0.7883
+2025-08-18 18:58:12,213 - INFO - Step 104: Removed seam with total energy 88.2706
+2025-08-18 18:58:12,213 - INFO - Energy map mean: 0.3247, max: 0.7883
+2025-08-18 18:58:12,280 - INFO - Step 105: Removed seam with total energy 88.2769
+2025-08-18 18:58:12,280 - INFO - Energy map mean: 0.3251, max: 0.7883
+2025-08-18 18:58:12,346 - INFO - Step 106: Removed seam with total energy 88.3970
+2025-08-18 18:58:12,346 - INFO - Energy map mean: 0.3254, max: 0.7883
+2025-08-18 18:58:12,413 - INFO - Step 107: Removed seam with total energy 88.5137
+2025-08-18 18:58:12,413 - INFO - Energy map mean: 0.3258, max: 0.7883
+2025-08-18 18:58:12,477 - INFO - Step 108: Removed seam with total energy 88.6907
+2025-08-18 18:58:12,477 - INFO - Energy map mean: 0.3261, max: 0.7883
+2025-08-18 18:58:12,533 - INFO - Step 109: Removed seam with total energy 89.0779
+2025-08-18 18:58:12,533 - INFO - Energy map mean: 0.3264, max: 0.7883
+2025-08-18 18:58:12,613 - INFO - Step 110: Removed seam with total energy 89.3030
+2025-08-18 18:58:12,613 - INFO - Energy map mean: 0.3268, max: 0.7883
+2025-08-18 18:58:12,685 - INFO - Step 111: Removed seam with total energy 89.6352
+2025-08-18 18:58:12,685 - INFO - Energy map mean: 0.3271, max: 0.7883
+2025-08-18 18:58:12,747 - INFO - Step 112: Removed seam with total energy 89.8320
+2025-08-18 18:58:12,747 - INFO - Energy map mean: 0.3274, max: 0.7883
+2025-08-18 18:58:12,827 - INFO - Step 113: Removed seam with total energy 89.8394
+2025-08-18 18:58:12,828 - INFO - Energy map mean: 0.3278, max: 0.7883
+2025-08-18 18:58:12,896 - INFO - Step 114: Removed seam with total energy 90.1569
+2025-08-18 18:58:12,896 - INFO - Energy map mean: 0.3281, max: 0.7883
+2025-08-18 18:58:12,962 - INFO - Step 115: Removed seam with total energy 90.3172
+2025-08-18 18:58:12,962 - INFO - Energy map mean: 0.3285, max: 0.7883
+2025-08-18 18:58:13,030 - INFO - Step 116: Removed seam with total energy 90.8314
+2025-08-18 18:58:13,032 - INFO - Energy map mean: 0.3288, max: 0.7883
+2025-08-18 18:58:13,095 - INFO - Step 117: Removed seam with total energy 90.9444
+2025-08-18 18:58:13,095 - INFO - Energy map mean: 0.3291, max: 0.7883
+2025-08-18 18:58:13,147 - INFO - Step 118: Removed seam with total energy 91.3861
+2025-08-18 18:58:13,147 - INFO - Energy map mean: 0.3295, max: 0.7883
+2025-08-18 18:58:13,213 - INFO - Step 119: Removed seam with total energy 91.4927
+2025-08-18 18:58:13,213 - INFO - Energy map mean: 0.3299, max: 0.7883
+2025-08-18 18:58:13,279 - INFO - Step 120: Removed seam with total energy 91.6034
+2025-08-18 18:58:13,279 - INFO - Energy map mean: 0.3302, max: 0.7883
+2025-08-18 18:58:13,361 - INFO - Step 121: Removed seam with total energy 91.7922
+2025-08-18 18:58:13,361 - INFO - Energy map mean: 0.3305, max: 0.7883
+2025-08-18 18:58:13,430 - INFO - Step 122: Removed seam with total energy 92.1664
+2025-08-18 18:58:13,430 - INFO - Energy map mean: 0.3309, max: 0.7883
+2025-08-18 18:58:13,495 - INFO - Step 123: Removed seam with total energy 92.1875
+2025-08-18 18:58:13,495 - INFO - Energy map mean: 0.3313, max: 0.7883
+2025-08-18 18:58:13,546 - INFO - Step 124: Removed seam with total energy 92.7142
+2025-08-18 18:58:13,546 - INFO - Energy map mean: 0.3316, max: 0.7883
+2025-08-18 18:58:13,612 - INFO - Step 125: Removed seam with total energy 93.1887
+2025-08-18 18:58:13,612 - INFO - Energy map mean: 0.3320, max: 0.7883
+2025-08-18 18:58:13,679 - INFO - Step 126: Removed seam with total energy 93.1500
+2025-08-18 18:58:13,679 - INFO - Energy map mean: 0.3323, max: 0.7883
+2025-08-18 18:58:13,746 - INFO - Step 127: Removed seam with total energy 93.2507
+2025-08-18 18:58:13,746 - INFO - Energy map mean: 0.3327, max: 0.7883
+2025-08-18 18:58:13,812 - INFO - Step 128: Removed seam with total energy 93.2821
+2025-08-18 18:58:13,812 - INFO - Energy map mean: 0.3330, max: 0.7883
+2025-08-18 18:58:13,878 - INFO - Step 129: Removed seam with total energy 93.7181
+2025-08-18 18:58:13,879 - INFO - Energy map mean: 0.3341, max: 0.7951
+2025-08-18 18:58:13,944 - INFO - Step 130: Removed seam with total energy 93.8157
+2025-08-18 18:58:13,945 - INFO - Energy map mean: 0.3345, max: 0.7951
+2025-08-18 18:58:13,996 - INFO - Step 131: Removed seam with total energy 94.0133
+2025-08-18 18:58:13,996 - INFO - Energy map mean: 0.3348, max: 0.7951
+2025-08-18 18:58:14,062 - INFO - Step 132: Removed seam with total energy 94.0659
+2025-08-18 18:58:14,062 - INFO - Energy map mean: 0.3351, max: 0.7951
+2025-08-18 18:58:14,129 - INFO - Step 133: Removed seam with total energy 94.5358
+2025-08-18 18:58:14,129 - INFO - Energy map mean: 0.3355, max: 0.7951
+2025-08-18 18:58:14,195 - INFO - Step 134: Removed seam with total energy 94.5950
+2025-08-18 18:58:14,195 - INFO - Energy map mean: 0.3358, max: 0.7951
+2025-08-18 18:58:14,229 - INFO - Step 135: Removed seam with total energy 95.0001
+2025-08-18 18:58:14,229 - INFO - Energy map mean: 0.3362, max: 0.7951
+2025-08-18 18:58:14,296 - INFO - Step 136: Removed seam with total energy 95.0507
+2025-08-18 18:58:14,296 - INFO - Energy map mean: 0.3366, max: 0.7951
+2025-08-18 18:58:14,363 - INFO - Step 137: Removed seam with total energy 95.2856
+2025-08-18 18:58:14,363 - INFO - Energy map mean: 0.3369, max: 0.7951
+2025-08-18 18:58:14,430 - INFO - Step 138: Removed seam with total energy 95.5186
+2025-08-18 18:58:14,430 - INFO - Energy map mean: 0.3373, max: 0.7951
+2025-08-18 18:58:14,497 - INFO - Step 139: Removed seam with total energy 95.9312
+2025-08-18 18:58:14,497 - INFO - Energy map mean: 0.3377, max: 0.7951
+2025-08-18 18:58:14,562 - INFO - Step 140: Removed seam with total energy 95.9556
+2025-08-18 18:58:14,562 - INFO - Energy map mean: 0.3380, max: 0.7951
+2025-08-18 18:58:14,629 - INFO - Step 141: Removed seam with total energy 96.0277
+2025-08-18 18:58:14,629 - INFO - Energy map mean: 0.3384, max: 0.7951
+2025-08-18 18:58:14,655 - INFO - Step 142: Removed seam with total energy 96.4201
+2025-08-18 18:58:14,655 - INFO - Energy map mean: 0.3387, max: 0.7951
+2025-08-18 18:58:14,713 - INFO - Step 143: Removed seam with total energy 96.5290
+2025-08-18 18:58:14,713 - INFO - Energy map mean: 0.3391, max: 0.7951
+2025-08-18 18:58:14,780 - INFO - Step 144: Removed seam with total energy 96.6814
+2025-08-18 18:58:14,780 - INFO - Energy map mean: 0.3394, max: 0.7951
+2025-08-18 18:58:14,831 - INFO - Step 145: Removed seam with total energy 96.9476
+2025-08-18 18:58:14,831 - INFO - Energy map mean: 0.3398, max: 0.7951
+2025-08-18 18:58:14,896 - INFO - Step 146: Removed seam with total energy 97.0602
+2025-08-18 18:58:14,896 - INFO - Energy map mean: 0.3402, max: 0.7951
+2025-08-18 18:58:14,963 - INFO - Step 147: Removed seam with total energy 97.1591
+2025-08-18 18:58:14,963 - INFO - Energy map mean: 0.3406, max: 0.7951
+2025-08-18 18:58:15,031 - INFO - Step 148: Removed seam with total energy 97.2360
+2025-08-18 18:58:15,031 - INFO - Energy map mean: 0.3409, max: 0.7951
+2025-08-18 18:58:15,063 - INFO - Step 149: Removed seam with total energy 97.4627
+2025-08-18 18:58:15,063 - INFO - Energy map mean: 0.3413, max: 0.7951
+2025-08-18 18:58:15,129 - INFO - Step 150: Removed seam with total energy 97.6572
+2025-08-18 18:58:15,129 - INFO - Energy map mean: 0.3417, max: 0.7951
+2025-08-18 18:58:15,193 - INFO - Step 151: Removed seam with total energy 97.7121
+2025-08-18 18:58:15,195 - INFO - Energy map mean: 0.3420, max: 0.7951
+2025-08-18 18:58:15,263 - INFO - Step 152: Removed seam with total energy 97.8888
+2025-08-18 18:58:15,263 - INFO - Energy map mean: 0.3424, max: 0.7951
+2025-08-18 18:58:15,313 - INFO - Step 153: Removed seam with total energy 97.9481
+2025-08-18 18:58:15,313 - INFO - Energy map mean: 0.3428, max: 0.7951
+2025-08-18 18:58:15,379 - INFO - Step 154: Removed seam with total energy 98.1761
+2025-08-18 18:58:15,379 - INFO - Energy map mean: 0.3432, max: 0.7951
+2025-08-18 18:58:15,443 - INFO - Step 155: Removed seam with total energy 98.2484
+2025-08-18 18:58:15,445 - INFO - Energy map mean: 0.3435, max: 0.7951
+2025-08-18 18:58:15,496 - INFO - Step 156: Removed seam with total energy 98.5948
+2025-08-18 18:58:15,496 - INFO - Energy map mean: 0.3439, max: 0.7951
+2025-08-18 18:58:15,563 - INFO - Step 157: Removed seam with total energy 98.8188
+2025-08-18 18:58:15,563 - INFO - Energy map mean: 0.3443, max: 0.7951
+2025-08-18 18:58:15,628 - INFO - Step 158: Removed seam with total energy 99.0055
+2025-08-18 18:58:15,628 - INFO - Energy map mean: 0.3447, max: 0.7951
+2025-08-18 18:58:15,680 - INFO - Step 159: Removed seam with total energy 99.1830
+2025-08-18 18:58:15,693 - INFO - Energy map mean: 0.3451, max: 0.7951
+2025-08-18 18:58:15,755 - INFO - Step 160: Removed seam with total energy 99.3838
+2025-08-18 18:58:15,755 - INFO - Energy map mean: 0.3455, max: 0.7951
+2025-08-18 18:58:15,814 - INFO - Step 161: Removed seam with total energy 99.5454
+2025-08-18 18:58:15,814 - INFO - Energy map mean: 0.3459, max: 0.7951
+2025-08-18 18:58:15,880 - INFO - Step 162: Removed seam with total energy 99.7759
+2025-08-18 18:58:15,880 - INFO - Energy map mean: 0.3463, max: 0.7951
+2025-08-18 18:58:15,930 - INFO - Step 163: Removed seam with total energy 99.6473
+2025-08-18 18:58:15,930 - INFO - Energy map mean: 0.3467, max: 0.7951
+2025-08-18 18:58:15,997 - INFO - Step 164: Removed seam with total energy 100.2351
+2025-08-18 18:58:15,997 - INFO - Energy map mean: 0.3471, max: 0.7951
+2025-08-18 18:58:16,063 - INFO - Step 165: Removed seam with total energy 100.5376
+2025-08-18 18:58:16,063 - INFO - Energy map mean: 0.3475, max: 0.7951
+2025-08-18 18:58:16,131 - INFO - Step 166: Removed seam with total energy 101.0231
+2025-08-18 18:58:16,131 - INFO - Energy map mean: 0.3479, max: 0.7951
+2025-08-18 18:58:16,190 - INFO - Step 167: Removed seam with total energy 101.0363
+2025-08-18 18:58:16,190 - INFO - Energy map mean: 0.3482, max: 0.7951
+2025-08-18 18:58:16,247 - INFO - Step 168: Removed seam with total energy 101.7028
+2025-08-18 18:58:16,247 - INFO - Energy map mean: 0.3486, max: 0.7951
+2025-08-18 18:58:16,313 - INFO - Step 169: Removed seam with total energy 101.6291
+2025-08-18 18:58:16,313 - INFO - Energy map mean: 0.3491, max: 0.7951
+2025-08-18 18:58:16,383 - INFO - Step 170: Removed seam with total energy 102.0444
+2025-08-18 18:58:16,383 - INFO - Energy map mean: 0.3494, max: 0.7951
+2025-08-18 18:58:16,445 - INFO - Step 171: Removed seam with total energy 102.1628
+2025-08-18 18:58:16,447 - INFO - Energy map mean: 0.3498, max: 0.7951
+2025-08-18 18:58:16,496 - INFO - Step 172: Removed seam with total energy 102.8759
+2025-08-18 18:58:16,496 - INFO - Energy map mean: 0.3503, max: 0.7960
+2025-08-18 18:58:16,563 - INFO - Step 173: Removed seam with total energy 102.9659
+2025-08-18 18:58:16,563 - INFO - Energy map mean: 0.3507, max: 0.7960
+2025-08-18 18:58:16,630 - INFO - Step 174: Removed seam with total energy 103.2282
+2025-08-18 18:58:16,630 - INFO - Energy map mean: 0.3511, max: 0.7960
+2025-08-18 18:58:16,689 - INFO - Step 175: Removed seam with total energy 103.3008
+2025-08-18 18:58:16,689 - INFO - Energy map mean: 0.3515, max: 0.7960
+2025-08-18 18:58:16,753 - INFO - Step 176: Removed seam with total energy 103.8401
+2025-08-18 18:58:16,753 - INFO - Energy map mean: 0.3519, max: 0.7960
+2025-08-18 18:58:16,813 - INFO - Step 177: Removed seam with total energy 104.0642
+2025-08-18 18:58:16,813 - INFO - Energy map mean: 0.3523, max: 0.7960
+2025-08-18 18:58:16,879 - INFO - Step 178: Removed seam with total energy 104.9561
+2025-08-18 18:58:16,879 - INFO - Energy map mean: 0.3527, max: 0.7960
+2025-08-18 18:58:16,945 - INFO - Step 179: Removed seam with total energy 104.9918
+2025-08-18 18:58:16,945 - INFO - Energy map mean: 0.3531, max: 0.7960
+2025-08-18 18:58:17,012 - INFO - Step 180: Removed seam with total energy 105.2335
+2025-08-18 18:58:17,012 - INFO - Energy map mean: 0.3535, max: 0.7960
+2025-08-18 18:58:17,076 - INFO - Step 181: Removed seam with total energy 105.2458
+2025-08-18 18:58:17,076 - INFO - Energy map mean: 0.3539, max: 0.7960
+2025-08-18 18:58:17,133 - INFO - Step 182: Removed seam with total energy 106.0937
+2025-08-18 18:58:17,133 - INFO - Energy map mean: 0.3546, max: 0.7994
+2025-08-18 18:58:17,212 - INFO - Step 183: Removed seam with total energy 106.9160
+2025-08-18 18:58:17,213 - INFO - Energy map mean: 0.3550, max: 0.7994
+2025-08-18 18:58:17,275 - INFO - Step 184: Removed seam with total energy 106.6621
+2025-08-18 18:58:17,277 - INFO - Energy map mean: 0.3554, max: 0.7994
+2025-08-18 18:58:17,334 - INFO - Step 185: Removed seam with total energy 107.4334
+2025-08-18 18:58:17,334 - INFO - Energy map mean: 0.3558, max: 0.7994
+2025-08-18 18:58:17,396 - INFO - Step 186: Removed seam with total energy 108.0313
+2025-08-18 18:58:17,396 - INFO - Energy map mean: 0.3561, max: 0.7994
+2025-08-18 18:58:17,463 - INFO - Step 187: Removed seam with total energy 108.0973
+2025-08-18 18:58:17,463 - INFO - Energy map mean: 0.3565, max: 0.7994
+2025-08-18 18:58:17,530 - INFO - Step 188: Removed seam with total energy 108.9340
+2025-08-18 18:58:17,530 - INFO - Energy map mean: 0.3570, max: 0.8003
+2025-08-18 18:58:17,580 - INFO - Step 189: Removed seam with total energy 108.9544
+2025-08-18 18:58:17,580 - INFO - Energy map mean: 0.3574, max: 0.8003
+2025-08-18 18:58:17,646 - INFO - Step 190: Removed seam with total energy 109.8955
+2025-08-18 18:58:17,646 - INFO - Energy map mean: 0.3578, max: 0.8003
+2025-08-18 18:58:17,696 - INFO - Step 191: Removed seam with total energy 110.1550
+2025-08-18 18:58:17,696 - INFO - Energy map mean: 0.3581, max: 0.8003
+2025-08-18 18:58:17,763 - INFO - Step 192: Removed seam with total energy 110.4022
+2025-08-18 18:58:17,763 - INFO - Energy map mean: 0.3585, max: 0.8003
+2025-08-18 18:58:17,830 - INFO - Step 193: Removed seam with total energy 111.6611
+2025-08-18 18:58:17,830 - INFO - Energy map mean: 0.3588, max: 0.7986
+2025-08-18 18:58:17,893 - INFO - Step 194: Removed seam with total energy 112.4329
+2025-08-18 18:58:17,893 - INFO - Energy map mean: 0.3591, max: 0.7986
+2025-08-18 18:58:17,946 - INFO - Step 195: Removed seam with total energy 113.3013
+2025-08-18 18:58:17,946 - INFO - Energy map mean: 0.3595, max: 0.7986
+2025-08-18 18:58:18,013 - INFO - Step 196: Removed seam with total energy 113.6563
+2025-08-18 18:58:18,013 - INFO - Energy map mean: 0.3599, max: 0.7986
+2025-08-18 18:58:18,074 - INFO - Step 197: Removed seam with total energy 114.4521
+2025-08-18 18:58:18,074 - INFO - Energy map mean: 0.3602, max: 0.7986
+2025-08-18 18:58:18,137 - INFO - Step 198: Removed seam with total energy 115.1667
+2025-08-18 18:58:18,137 - INFO - Energy map mean: 0.3607, max: 0.7986
+2025-08-18 18:58:18,196 - INFO - Step 199: Removed seam with total energy 116.9855
+2025-08-18 18:58:18,196 - INFO - Energy map mean: 0.3610, max: 0.7986
+2025-08-18 18:58:18,263 - INFO - Step 200: Removed seam with total energy 117.5039
+2025-08-18 18:58:18,263 - INFO - Energy map mean: 0.3614, max: 0.7986
+2025-08-18 18:58:18,361 - INFO - Saved output image to results\Diana_resized.png
