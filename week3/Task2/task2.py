@@ -13,24 +13,19 @@ def setup_logging(image_path):
     image_name = os.path.basename(image_path).replace('.png', '')
     log_file = os.path.join(result_dir, f'seam_carving_{image_name}_{timestamp}.log')
     
-    # Create a unique logger for this image
     logger = logging.getLogger(image_name)
     logger.setLevel(logging.INFO)
     
-    # Clear any existing handlers to avoid duplicate logging
     logger.handlers = []
     
-    # Create file handler
     file_handler = logging.FileHandler(log_file)
     file_handler.setLevel(logging.INFO)
     file_handler.setFormatter(logging.Formatter('%(asctime)s - %(levelname)s - %(message)s'))
     
-    # Create stream handler
     stream_handler = logging.StreamHandler()
     stream_handler.setLevel(logging.INFO)
     stream_handler.setFormatter(logging.Formatter('%(asctime)s - %(levelname)s - %(message)s'))
     
-    # Add handlers to logger
     logger.addHandler(file_handler)
     logger.addHandler(stream_handler)
     
